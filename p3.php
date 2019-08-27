@@ -1,3 +1,4 @@
+<!--3.	Find factorial of A.-->
 <?php
 $a = 5;
 $j =1;

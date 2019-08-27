@@ -1,3 +1,4 @@
+<!--2.	Find consecutive numbers between A & B divided by N.-->
 <?php
 $a = 2;
 $b = 20;

@@ -1,3 +1,4 @@
+<!--7.	Draw a table of C number of column & R number of row with consecutive number.-->
 <?php
 
 $c=5;
